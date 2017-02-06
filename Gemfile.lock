@@ -8,10 +8,10 @@ GIT
 
 GIT
   remote: https://github.com/everypolitician/wikisnakker.git
-  revision: b3fd16a21e4e2f71c6d54970fc61639a78db5010
-  branch: run-time-properties
+  revision: 1aab718ddfa056c9da559f7de7d7ac5926a59b5c
+  branch: kill-dynamic
   specs:
-    wikisnakker (0.9.0)
+    wikisnakker (0.9.1)
       require_all
       yajl-ruby
 
