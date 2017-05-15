@@ -8,8 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/everypolitician/wikisnakker.git
-  revision: 1aab718ddfa056c9da559f7de7d7ac5926a59b5c
-  branch: kill-dynamic
+  revision: 4e091cdc9619b6c12db8903075effef361071132
   specs:
     wikisnakker (0.9.1)
       require_all
