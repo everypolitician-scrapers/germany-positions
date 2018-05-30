@@ -9,6 +9,7 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}.git" }
 ruby '2.3.3'
 
 gem 'everypolitician', github: 'everypolitician/everypolitician-ruby'
+gem 'everypolitician-popolo', github: 'everypolitician/everypolitician-popolo'
 gem 'pry'
 gem 'rubocop'
 gem 'scraperwiki', github: 'openaustralia/scraperwiki-ruby', branch: 'morph_defaults'
